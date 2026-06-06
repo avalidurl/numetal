@@ -1,0 +1,8 @@
+node_modules
+dist
+.vocs
+.turbo
+*.log
+.env
+.dev.vars
+.DS_Store

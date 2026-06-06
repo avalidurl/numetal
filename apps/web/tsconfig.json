@@ -1,0 +1,6 @@
+{
+  "extends": "@numetal/config/tsconfig.base.json",
+  "include": [
+    "."
+  ]
+}
