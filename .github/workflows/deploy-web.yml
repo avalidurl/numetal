@@ -1,9 +1,9 @@
 name: Deploy web
 on:
   workflow_dispatch:
-  # push:                       # enable after Cloudflare is wired + a build is verified
-  #   branches: [main]
-  #   paths: ["apps/web/**", "packages/**"]
+  push:
+    branches: [main]
+    paths: ["apps/web/**", "packages/**", ".github/workflows/deploy-web.yml"]
 jobs:
   deploy:
     runs-on: ubuntu-latest
