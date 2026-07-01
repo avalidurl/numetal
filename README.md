@@ -120,7 +120,7 @@ The visual language draws on the mono-forward, austere aesthetic associated with
 
 ## License
 
-**TBD** — no license file is present in this repository yet. All rights reserved by the repository owner until a license is added. Please contact the studio before reuse.
+This project is licensed under the **MIT License** — remix freely with attribution. See [LICENSE](./LICENSE).
 
 ---
 
